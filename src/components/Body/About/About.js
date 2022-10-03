@@ -5,7 +5,7 @@ function About() {
   return (
     <section className="about">
       <div className="about-wrap">
-        <h2>Lorem Ipsum dolor sin ahmet</h2>
+        <h2>Loreem Ipsum dolor sin ahmet</h2>
         <button className="btn-color">Lorem ipsum</button>
         <img alt="" src={Botom}></img>
       </div>
